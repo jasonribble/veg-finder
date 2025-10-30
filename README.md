@@ -9,4 +9,13 @@ This is a sandbox project for the [ATDD Accelerator](https://atdd-accelerator.op
 
 ---
  
+## Description 
+
 Locating Restraunts that have plant-based options
+
+
+## Documentation
+
+Documentation will be hosted on [Github Pages](https://jasonribble.github.io/veg-finder/)
+
+
