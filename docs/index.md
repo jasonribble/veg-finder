@@ -1,1 +1,2 @@
-# Veg Finder Documetation
+# Veg Finder Documentation
+
