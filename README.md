@@ -21,4 +21,4 @@ Documentation will be hosted on [Github Pages](https://jasonribble.github.io/veg
 
 Project Board - [Github Project](https://github.com/users/jasonribble/projects/1/views/1) 
 
-# Contributors
+## Contributors
