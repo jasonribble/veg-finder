@@ -11,8 +11,9 @@ The system follows a monolithic architecture where all components are built and 
 
 ```mermaid
 graph TD
-    A[Monolith System] --> B[Notification Service]
-    A --> C[Geolocation Service]
+    A[Monolith System] --> B[Geolocation Service]
+    A --> C[SMS Service]
+    A --> D[Email Service]
 ```
 
 The monolith system depends on two external systems:
